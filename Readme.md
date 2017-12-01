@@ -1,22 +1,21 @@
-# Mobile Application Architecture
+# Intermediate Backend for Mobile Development
+
+
+We will be learning how to build backends in Ruby on Rails. Some of the technologies we will cover include ActiveRecord, Database and Sc
 
 ## Course Overview
 
 ## Objectives
 
-- technical planning and discussion
-- discussion on software architecture
-- Protocol oriented programming, design patterns
-- In depth Concurrency/Parallelism - GCD, Operations
+- Backend development in Ruby on Rails
+- MVC in Rails
+- ActiveRecord
 
 ## Competencies
 
 Students should be able to:
 
-- Compare and contrast POP vs object oriented vs functional programming.
-- Demonstrate a detailed understanding of design patterns in Swift by implementing them in various projects.
-- Use concurrency in their projects.
-- Use best practices to identify and debug problems related to concurrency such as race conditions.
+- Write a backend
 
 
 ## Projects
@@ -24,14 +23,32 @@ Students should be able to:
 1. Write a blog post about an aspect of Swift or iOS or an emergent or old iOS technology or library.
 
 
-
 ## Course Outine
 
-- ## Week 1
-- ## Week 2
-- ## Week 3
-- ## Week 4
-- ## Week 5
-- ## Week 6
+- #### Week 1
+    - [Getting started in Ruby](10-Basic-Ruby)
+    - [Intro to Backend in Ruby on Rails](11-Intro-To-Ruby-On-Rails)
+    
+- #### Week 2
+    - [Project - Shared Notes](08-Project-Shared-Notes)
+    - [Model View Controller in Rails](12-MVC-in-Rails)
+    
+    
+- #### Week 3
+    - [Models and ActiveRecord](13-Active-Record)
+    - [Relationships and Associations in Active Record]()
+
+- #### Week 4
+    - [Controllers and Views]()
+    - [Dealing with Databases in Rails]()
+    
+    
+- #### Week 5
+    - [Restful Routing in Rails]()
+    - [Authentication & Authorization]()
+    
+- #### Week 6
+    
 
 ## Evaluations
+
