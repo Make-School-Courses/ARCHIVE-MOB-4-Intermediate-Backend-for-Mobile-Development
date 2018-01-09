@@ -9,6 +9,7 @@ We are going to cover the basics of Ruby in a 2 part series. These are some of t
 - Collections: Arrays, Hash maps
 - Strings: concatenation, interpolation
 - Control flow and iteration
+- OOP in Ruby
 - Debugging
 - The Ruby REPL
 - Using libraries: importing
@@ -17,14 +18,18 @@ We are going to cover the basics of Ruby in a 2 part series. These are some of t
 - Useful standard library methods
 - Structs
 
+Here is the list of topics we will cover today:
+
+[Topics](Topics.md)
+
+
 # Why Ruby
 
 Before we get started with Ruby, lets look at Ruby language and discuss why its important to learn it.
 
-macOS ships with Ruby.
+Ruby is the language for writing Rails applications. It has been around since 1985 and has developed an enourmous community of developers and enthusiats. Ruby focuses on developer productivity making the language easy and pleasant to write.
 
-Ruby History here
-
+macOS ships with Ruby, so you don't have to explicitly install it.
 Ruby is the language to build Rails applications. Ruby is to Python as Rails is to flask.
 
 Ruby is a scripting language and is used extensively to build scripts for running.
@@ -40,6 +45,16 @@ Here are a few things built with Ruby:
 
 For this course, we will only need basic Ruby which we are going to cover. If you have programmed in another language like Python or Swift, you know enough programming concepts to build a basic Rails application.
 
+## Using Ruby Through the REPL
+
+We can use Ruby in the terminal by running:
+
+```shell
+irb
+```
+
+This will pull up an interactive console for us to write Ruby.
+
 ## Activities
 
 - Reading and interoperating Ruby
@@ -47,6 +62,9 @@ For this course, we will only need basic Ruby which we are going to cover. If yo
 
 ## Challenges
 
+Go through the Ruby Koans here:
+
+[Ruby Koans Link](http://rubykoans.com)
 
 ## Assignments
 

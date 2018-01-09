@@ -27,8 +27,8 @@ Students should be able to:
 
 ## Projects
 
-1. The Voicey Tutorial.
-1. A Team project
+1. [The Voicey Tutorial]()
+1. [A Team project](99-Team-Project-Specifications)
 
 ## Course Outline
 
