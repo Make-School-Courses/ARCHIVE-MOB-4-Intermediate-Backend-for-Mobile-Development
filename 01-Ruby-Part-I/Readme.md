@@ -1,4 +1,4 @@
-# The Ruby Language
+# Introduction to Ruby Part I
 
 ## Objectives
 
@@ -36,15 +36,25 @@ Here are a few things built with Ruby:
 - Cocoapods
 - Fastlane
 
+### How much Ruby do I need to build a Rails application?
+
+For this course, we will only need basic Ruby which we are going to cover. If you have programmed in another language like Python or Swift, you know enough programming concepts to build a basic Rails application.
+
 ## Activities
 
-- Reading and iterpretting Ruby
+- Reading and interoperating Ruby
 - Translating Swift code to Ruby
 
 ## Challenges
 
 
-## Prep for next class
+## Assignments
 
-- Form groups of 3, and pick and research one of the following topics to discuss for next class:
-  -
+In groups of three (3), pick and research one of the following topics to discuss for next class:
+
+- Using libraries
+- Error Handling
+- Closures aka Blocks
+- Structs
+
+Each team is going to present and teach the class on their topics of research. Provide code examples, walkthroughs and practical use cases for each topic of discussion.

@@ -11,6 +11,7 @@ In this course, we will cover:
 - the Ruby on Rails framework
 - ActiveRecord
 - Databases
+- Testing
 
 ## Competencies
 
@@ -31,16 +32,17 @@ Students should be able to:
 
 ## Course Outline
 
-1. [Getting started in Ruby](10-Basic-Ruby)
+1. [Introduction](00-Intro)
+1. [Getting started in Ruby - Part I](01-Ruby-Part-I)
+1. [Getting started in Ruby - Part II](02-Ruby-Part-II)
 1. [Intro to Backend in Ruby on Rails](11-Intro-To-Ruby-On-Rails)
-1. [Project - Shared Notes](08-Project-Shared-Notes)
 1. [Model View Controller in Rails](12-MVC-in-Rails)
+1. [Dealing with Databases in Rails]()
 1. [Models and ActiveRecord](13-Active-Record)
 1. [Relationships and Associations in Active Record]()
+1. [Restful Routing in Rails]()
 1. [Controllers and Views]()
 1. Team Project Work & Code Reviews
-1. [Dealing with Databases in Rails]()
-1. [Restful Routing in Rails]()
 1. [Authentication & Authorization]()
 1. Team Project Work & Code Reviews
 1. Team Project Work & Code Reviews
