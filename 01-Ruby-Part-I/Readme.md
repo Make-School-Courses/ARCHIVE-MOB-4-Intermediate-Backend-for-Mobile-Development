@@ -76,7 +76,7 @@ Go through the Ruby Koans here:
 
 In groups of three (3), pick and research one of the following topics to discuss for next class:
 
-- Ruby cases
+- Ruby Case Expressions & Ruby Iterators (for, while loops)
 - Error Handling
 - Closures aka Blocks
 - Structs
