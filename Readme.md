@@ -27,7 +27,7 @@ Students should be able to:
 
 ## Projects
 
-1. [The Voicey Tutorial]()
+1. [The Voicey Tutorial](https://www.makeschool.com/online-courses/tutorials/build-a-voice-memo-app-in-ruby-on-rails/getting-started)
 1. [A Team project](99-Team-Project-Specifications)
 
 ## Course Outline

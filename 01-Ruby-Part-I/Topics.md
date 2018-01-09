@@ -8,6 +8,10 @@
     - puts vs p
     - using the methods, method on an object
     - using ||=
+    - parallel assignment
+    ```ruby
+    a, b, c = 10, 20, 30
+    ```
 
     Symbols
     - symbols are like fast immutable strings

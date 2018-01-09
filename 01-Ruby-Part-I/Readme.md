@@ -18,7 +18,7 @@ We are going to cover the basics of Ruby in a 2 part series. These are some of t
 - Useful standard library methods
 - Structs
 
-Here is the list of topics we will cover today:
+Here is the list of topics we will cover _today_:
 
 [Topics](Topics.md)
 
@@ -55,6 +55,12 @@ irb
 
 This will pull up an interactive console for us to write Ruby.
 
+## Ruby Style Guide
+
+We are going to be following this style guide for writing our Ruby code. If you aren't sure about how to format a piece of ruby code refer to this:
+
+[Ruby Style Guide](https://github.com/airbnb/ruby)
+
 ## Activities
 
 - Reading and interoperating Ruby
@@ -70,7 +76,7 @@ Go through the Ruby Koans here:
 
 In groups of three (3), pick and research one of the following topics to discuss for next class:
 
-- Using libraries
+- Ruby cases
 - Error Handling
 - Closures aka Blocks
 - Structs
