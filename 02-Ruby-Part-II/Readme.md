@@ -2,14 +2,17 @@
 
 ## Objectives
 
-- Using libraries: importing
+- Ruby Case Expressions & Ruby Iterators (for, while loops)
 - Error Handling
 - Closures aka Blocks
-- Useful standard library methods
 - Structs
 
 ## Activities
 
-Picking up from the previous lesson, we formed into groups of 3 and chose a topic to research.
+- Student demos of research topics from last class
 
 ## Challenges
+
+Continue the Ruby Koans:
+
+[Ruby Koans Link](http://rubykoans.com)
