@@ -1,5 +1,10 @@
 # Setting up push notifications
 
+## setup
+
+Clone this repo for starter code:
+[Pusher Starter Code](https://github.com/Product-College-Labs/PusherStarter)
+
 Follow the instructions here for setting up push notifications on the apple developer Portal
 
 [Setup Push on Developer Portal](https://stackoverflow.com/questions/21250510/generate-pem-file-used-to-setup-apple-push-notification)
