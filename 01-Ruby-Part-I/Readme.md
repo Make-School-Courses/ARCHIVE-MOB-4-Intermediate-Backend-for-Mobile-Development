@@ -77,8 +77,8 @@ Go through the Ruby Koans here:
 In groups of three (3), pick and research one of the following topics to discuss for next class:
 
 - Ruby Case Expressions & Ruby Iterators (for, while loops)
-- Error Handling
+- Modules(Scope Resolution Operator) & Error Handling
 - Closures aka Blocks
-- Structs
+- Structs & Classes
 
 Each team is going to present and teach the class on their topics of research. Provide code examples, walkthroughs and practical use cases for each topic of discussion.
