@@ -40,9 +40,10 @@ Students should be able to:
 1. [Dealing with Databases in Rails]()
 1. [Models and ActiveRecord](13-Active-Record)
 1. [Relationships and Associations in Active Record]()
-1. [Sending Push Notifications from Ruby/Rails to iOS](09-Setting-Up-Push-Notifications)
-1. [Restful Routing in Rails]()
 1. [Controllers and Views]()
+1. [Restful Routing in Rails]()
+1. [Test Driven Development]()
+1. [Sending Push Notifications from Ruby/Rails to iOS](09-Setting-Up-Push-Notifications)
 1. Team Project Work & Code Reviews
 1. [Authentication & Authorization]()
 1. Team Project Work & Code Reviews
