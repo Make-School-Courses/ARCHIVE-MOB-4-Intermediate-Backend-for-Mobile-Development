@@ -1,4 +1,6 @@
-# Intermediate Backend for Mobile Development
+# ARCHIVE - Intermediate Backend for Mobile Development
+
+## NOTE: This repo is no longer maintained
 
 
 We will be learning how to build backends in Ruby on Rails. Some of the technologies we will cover include ActiveRecord, Databases, Restful routing, and testing.
